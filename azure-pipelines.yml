@@ -56,5 +56,5 @@ steps:
 
 
     script: |
-      print('This is demo application of python')
-      print('using azure pipelines')
+      print('This is Section 1 Azure Demonstration')
+      print('KL-CSE')
